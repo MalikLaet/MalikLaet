@@ -28,7 +28,7 @@
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickersdevs.com.br%2Fshop%2Fstickers%2Fjava-sticker%2F&psig=AOvVaw1fakVlK3xZb4HNaqJqTneo&ust=1744142581060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC06djXxowDFQAAAAAdAAAAABAE)" 
+    src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/java-adesivo-sticker.png" 
 />
 <img 
     align="left" 
